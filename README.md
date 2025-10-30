@@ -15,7 +15,7 @@ is installed for project related environment management.
 ## Installation
 
 ```sh
-git clone https://github.com/hollow/dotfiles ~/.config
+git clone https://github.com/frieren21/dotfiles ~/.config
 ln -nfs ~/.config/zsh/.zshrc ~/.zshrc
 exec zsh
 ```
