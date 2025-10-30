@@ -1,7 +1,7 @@
 [user]
-	name = Benedikt Böhm
-	email = bb@xnull.de
-	signingkey = AE74137591CEC5EF551598267650F79B136BDA74
+	name = Marwa Dahmane
+	email = marwa.dahmane@gmail.com
+	signingkey = 99D64CFBC5FCDECDCF032FD56C59B2046B043FFE
 
 [alias]
 	aliases = !git config --get-regexp 'alias.*' | colrm 1 6 | sed 's/[ ]/ = /'
